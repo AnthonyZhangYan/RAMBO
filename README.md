@@ -39,4 +39,4 @@ python run_baselines.py --baselines RAMBO --fn torsion_energy --T 200 --N_INIT 2
 
 **Synthetic:** Levy (6D/10D), Schwefel (6D/10D)
 
-**Real-world:** Molecular Torsion Energy, Cancer Data, ConStellaration# RAMBO
+**Real-world:** Molecular Torsion Energy, Cancer Data, ConStellaration
