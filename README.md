@@ -14,7 +14,7 @@
 pip install -r requirements.txt
 ```
 
-## 2. Data Preparation
+### 2. Data Preparation
 
 For submission anonymity and storage efficiency, the molecular dataset is provided as a compressed archive:
 
@@ -22,7 +22,7 @@ For submission anonymity and storage efficiency, the molecular dataset is provid
 * Unzip `smiles_data.zip` within that folder.
 * Ensure the file `functions/smiles_data.csv` is present before executing experiments.
 
-## 3. Usage
+### 3. Usage
 
 To replicate experiments (e.g., the Molecular Torsion Energy benchmark):
 
