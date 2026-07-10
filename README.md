@@ -6,7 +6,7 @@ Official implementation for the camera-ready version of our ICML 2026 paper:
 Yan Zhang, Xuefeng Liu, Sipeng Chen, Sascha Ranftl, Chong Liu, and Shibo Li  
 *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026), PMLR 306, 2026.*
 
-[Paper](https://openreview.net/pdf?id=bSUMVAYoMq) | [Official OpenReview](https://openreview.net/forum?id=bSUMVAYoMq) | [Official ICML Page](https://icml.cc/virtual/2026/poster/62957)
+[Paper](https://openreview.net/pdf?id=bSUMVAYoMq) | [Official ICML Page](https://icml.cc/virtual/2026/poster/62957) | [Official OpenReview](https://openreview.net/forum?id=bSUMVAYoMq)
 
 This repository provides the implementation of **RAMBO**, a regime-adaptive Bayesian optimization framework based on Dirichlet Process Mixtures of Gaussian Processes. The code is intended to reproduce the experiments reported in the camera-ready paper, including synthetic benchmarks and real-world optimization tasks.
 
